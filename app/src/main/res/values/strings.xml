@@ -1,0 +1,60 @@
+<resources>
+
+    <string name="head">fonts/head.ttf</string>
+    <string name="roboto_head">fonts/aavantelt_light.ttf</string>
+
+    <string name="id_1">India</string>
+    <string name="id_2">France</string>
+    <string name="id_3">Japan</string>
+    <string name="id_4">Spain</string>
+    <string name="id_5">Germany</string>
+    <string name="id_6">Hawaii</string>
+    <string name="id_7">Israel</string>
+    <string name="id_8">Latvia</string>
+    <string name="id_9">Turkey</string>
+    <string name="id_10">Greece</string>
+    <string name="id_11">Netherlands</string>
+    <string name="id_12">Italy</string>
+    <string name="id_13">Mexico</string>
+    <string name="id_14">Moldova</string>
+    <string name="id_15">Slovakia</string>
+    <string name="id_16">Hungary</string>
+    <string name="id_17">Lithuania</string>
+    <string name="id_18">Portugal</string>
+    <string name="id_19">Malta</string>
+    <string name="id_20">Poland</string>
+    <string name="id_21">Slovenia</string>
+    <string name="id_22">Romania</string>
+    <string name="id_23">Ireland</string>
+    <string name="id_24">Sweden</string>
+    <string name="id_25">Luxembourg</string>
+
+    <string name="id_26">Индия</string>
+    <string name="id_27">Франция</string>
+    <string name="id_28">Япония</string>
+    <string name="id_29">Испания</string>
+    <string name="id_30">Германия</string>
+    <string name="id_31">Гавайи</string>
+    <string name="id_32">Израиль</string>
+    <string name="id_33">Латвия</string>
+    <string name="id_34">Турция</string>
+    <string name="id_35">Греция</string>
+    <string name="id_36">Нидерланды</string>
+    <string name="id_37">Италия</string>
+    <string name="id_38">Мексика</string>
+    <string name="id_39">Молдова</string>
+    <string name="id_40">Словакия</string>
+    <string name="id_41">Венгрия</string>
+    <string name="id_42">Литва</string>
+    <string name="id_43">Португалия</string>
+    <string name="id_44">Мальта</string>
+    <string name="id_45">Польша</string>
+    <string name="id_46">Словения</string>
+    <string name="id_47">Румыния</string>
+    <string name="id_48">Ирландия</string>
+    <string name="id_49">Швеция</string>
+    <string name="id_50">Люксембург</string>
+
+
+    <string name="app_name">Associations</string>
+</resources>
